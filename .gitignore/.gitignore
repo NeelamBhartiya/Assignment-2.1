@@ -1,0 +1,4 @@
+1. When calling a function we can specify arguments by position, by complete name, or by partial name.
+Arguments are matched first by exact name (perfect matching), then by prefix matching, and finally by position.
+2. TRUE
+3.a.FALSE b.FALSE c.TRUE d.TRUE
